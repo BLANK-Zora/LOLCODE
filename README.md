@@ -2,8 +2,8 @@
 
 • About IT & How to use 
 
-There is one one main file - main.lol 
-there is one backup file in TXT file - backup.txt 
+There is one one main file - main.lol -  
+There is one backup file in TXT file - backup.txt -  
 USE https://repl.it/~ for running the code 
 
 • About CODE 
