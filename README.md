@@ -10,4 +10,4 @@ USE https://repl.it/~ for running the code
 
 It is a polling system among any 2 choices that you like to make 
 - Maximum voting count = 10 
-- Maximum choicec = 2 
+- Maximum choices = 2 
